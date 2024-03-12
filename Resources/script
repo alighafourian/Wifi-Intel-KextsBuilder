@@ -62,8 +62,8 @@ Sleep 3
 mkdir -p $HOME/Developer/Wifi-Intel-KextsBuilder
 Sleep 1
 cd $HOME/Developer/Wifi-Intel-KextsBuilder
-git clone https://github.com/OpenIntelWireless/IntelBluetoothFirmware.git
-git clone https://github.com/OpenIntelWireless/itlwm.git
+git clone https://github.com/alighafourian/IntelBluetoothFirmware.git
+git clone https://github.com/alighafourian/itlwm
 cd $HOME/Developer/Wifi-Intel-KextsBuilder
 git clone https://github.com/acidanthera/Lilu.git
 cd $HOME/Developer/Wifi-Intel-KextsBuilder/Lilu
